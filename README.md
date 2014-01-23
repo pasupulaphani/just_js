@@ -1,5 +1,5 @@
 just_js
 =======
 
-Lessons learnt from awesome DailyJs.com Javascript tutorials
+Lessons learnt and Javascript tutorials
 
