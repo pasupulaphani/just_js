@@ -29,7 +29,7 @@ a1 = new Animal("Bob");
 a1.getName();  // Bob
 
 a2 = new Animal("Alice");
-a1.getName();  // Bob
+a2.getName();  // Bob
 
 // This gives flexibility and usage of prototype but doesn't give u privacy of closures
 // you can get singleton with closures and prototyes by combining this with last example of le7
